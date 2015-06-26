@@ -9,6 +9,7 @@ import ConfigParser
 import os
 import sys
 import re
+import os 
 
 def dingcan(user, password):
         opener=login(user, password)
